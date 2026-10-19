@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="users.json" />
+  </Folder>
+  <Project Path="raufnw2/raufnw2.csproj" />
+  <Project Path="raufnw2client/raufnw2client.csproj" />
+</Solution>

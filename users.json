@@ -1,0 +1,20 @@
+[
+  {
+    "Username": "Mahmud",
+    "Password": "123",
+    "IsOnline": false,
+    "RemoteEndpoint": ""
+  },
+  {
+    "Username": "Leyla",
+    "Password": "456",
+    "IsOnline": false,
+    "RemoteEndpoint": ""
+  },
+  {
+    "Username": "Rauf",
+    "Password": "789",
+    "IsOnline": false,
+    "RemoteEndpoint": ""
+  }
+]
